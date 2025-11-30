@@ -53,6 +53,14 @@ The **Global Store Sales Dashboard** consolidates sales data from multiple regio
 
 ---
 
+## 📁 Repository Structure
+/Global-Store-Sales-Dashboard
+│── Global Store.pbix       # Power BI report file
+│── README.md               # Project documentation
+└── /images                 # Dashboard screenshots (add yours here)
+
+---
+
 ## 🧩 Future Enhancements
 
 * Add forecasting using Power BI built-in analytics
